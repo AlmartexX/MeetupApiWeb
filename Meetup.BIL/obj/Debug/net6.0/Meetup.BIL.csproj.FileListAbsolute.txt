@@ -1,0 +1,15 @@
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\bin\Debug\net6.0\Meetup.BIL.deps.json
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\bin\Debug\net6.0\Meetup.BIL.dll
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\bin\Debug\net6.0\Meetup.BIL.pdb
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\bin\Debug\net6.0\Meetup.DAL.dll
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\bin\Debug\net6.0\Meetup.DAL.pdb
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\obj\Debug\net6.0\Meetup.BIL.csproj.AssemblyReference.cache
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\obj\Debug\net6.0\Meetup.BIL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\obj\Debug\net6.0\Meetup.BIL.AssemblyInfoInputs.cache
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\obj\Debug\net6.0\Meetup.BIL.AssemblyInfo.cs
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\obj\Debug\net6.0\Meetup.BIL.csproj.CoreCompileInputs.cache
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\obj\Debug\net6.0\Meetup.BIL.csproj.CopyComplete
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\obj\Debug\net6.0\Meetup.BIL.dll
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\obj\Debug\net6.0\refint\Meetup.BIL.dll
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\obj\Debug\net6.0\Meetup.BIL.pdb
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.BIL\obj\Debug\net6.0\ref\Meetup.BIL.dll

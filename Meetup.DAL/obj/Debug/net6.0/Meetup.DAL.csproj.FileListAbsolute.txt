@@ -1,0 +1,14 @@
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.DAL\bin\Debug\net6.0\Meetup.DAL.deps.json
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.DAL\bin\Debug\net6.0\Meetup.DAL.dll
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.DAL\bin\Debug\net6.0\Meetup.DAL.pdb
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.DAL\obj\Debug\net6.0\Meetup.DAL.csproj.AssemblyReference.cache
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.DAL\obj\Debug\net6.0\Meetup.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.DAL\obj\Debug\net6.0\Meetup.DAL.AssemblyInfoInputs.cache
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.DAL\obj\Debug\net6.0\Meetup.DAL.AssemblyInfo.cs
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.DAL\obj\Debug\net6.0\Meetup.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.DAL\obj\Debug\net6.0\Meetup.DAL.dll
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.DAL\obj\Debug\net6.0\refint\Meetup.DAL.dll
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.DAL\obj\Debug\net6.0\Meetup.DAL.pdb
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.DAL\obj\Debug\net6.0\ref\Meetup.DAL.dll
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.DAL\bin\Debug\net6.0\Meetup.DAL.runtimeconfig.json
+C:\Users\ymkaa\Documents\work\Modsen\Проект\NewMeetup\Meetup.DAL\obj\Debug\net6.0\Meetup.DAL.genruntimeconfig.cache
